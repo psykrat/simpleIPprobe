@@ -1,3 +1,5 @@
+### This version contains Flask for testing. For the GCF version go to main.py
+
 from flask import Flask, request, jsonify
 from ipwhois import IPWhois
 
